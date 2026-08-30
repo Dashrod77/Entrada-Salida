@@ -1,0 +1,19 @@
+programa maim
+
+//pide al usuario 2 datos
+pide al usuario en valor 1
+pide al usuario el valor 2
+
+//operaciones aritmeticas
+haz la suma de las dos variables
+haz la resta de las dos variables
+haz la multiplicacion de las dos variables
+haz la division de las dos variables
+haz el residuo de las dos variables
+
+//imprime los resultados de las variables
+print suma
+print resta
+print multiplicacion
+print division
+print residuo
